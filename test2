@@ -1,0 +1,7 @@
+numbers=['1','2','3']
+n1=[]
+for number in numbers:
+    n1.append(int(number))
+print(n1)
+import webbrowser
+webbrowser.open("http://www.facebook.com")
